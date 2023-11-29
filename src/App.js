@@ -10,6 +10,12 @@ function App() {
         <Search />
         <Weather />
         <Forecast />
+        <span class="source-code">
+          <a href="https://github.com/DorothyMatlou/weather">
+            <small>Open-Source-Code </small>
+          </a>
+          by Dorothy Maleka
+        </span>
       </div>
     </div>
   );
